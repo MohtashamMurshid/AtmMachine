@@ -19,8 +19,8 @@ public class selectAcc {
         int response;
 
         do {
-            System.out.println("1. Withdraw from Savings \n" +
-                    "2. Withdraw from Current \n" +
+            System.out.println("1. Savings \n" +
+                    "2. Current \n" +
                     "3. Show Balance \n" +
                     "4. Exit \n");
             System.out.print("Enter your choice: ");
@@ -28,7 +28,7 @@ public class selectAcc {
 
             // Pass the response to the DisplayAmount class for handling the action
             if (response != 4) {
-                new displayAmount(account, response, accountsList, filePath);
+                new manageTransactions(account, response, accountsList, filePath);
             }
         } while (response != 4);  // Continue until the user chooses to exit
     }

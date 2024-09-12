@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="532b5eaa-002a-417c-992b-87040ffdc989" name="Changes" comment="">
+    <list default="true" id="532b5eaa-002a-417c-992b-87040ffdc989" name="Changes" comment="commit 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Accounts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Accounts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AccountsManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AccountsManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/accounts.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/accounts.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/displayAmount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/displayAmount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/displayAmount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/manageTransactions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/selectAcc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/selectAcc.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,6 +61,30 @@
       <option name="presentableId" value="Default" />
       <updated>1725984936215</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit 1">
+      <option name="closed" value="true" />
+      <created>1726074031254</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726074031254</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 1" />
   </component>
 </project>
